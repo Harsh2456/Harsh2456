@@ -25,16 +25,6 @@
 
 ---
 
-
-
-## 📈 GitHub Stats  
-
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsh2456&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh2456&layout=compact&theme=tokyonight)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Harsh2456&theme=tokyonight)  
-
----
-
 📫 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshwardhan-patil-955706251/))  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-harshpatil2456@gmail.com)
@@ -42,7 +32,7 @@
 
 
 
-## Hi there 👋
+
 
 <!--
 **Harsh2456/Harsh2456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
