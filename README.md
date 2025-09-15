@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3933e078-daa5-4f3a-8764-6a298838cc6f" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/3933e078-daa5-4f3a-8764-6a298838cc6f" />
 
 
 # 👋 Hi, I'm Harshwardhan Patil  
