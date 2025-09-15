@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3933e078-daa5-4f3a-8764-6a298838cc6f" />
+
+
 # 👋 Hi, I'm Harshwardhan Patil  
 
 💻 Aspiring Data Scientist & Software Engineer  
@@ -22,14 +25,7 @@
 
 ---
 
-## 📌 Featured Projects  
 
-- 📘 [PDF RAG Chatbot](https://github.com/Harsh2456/pdf-rag-chatbot) – Query PDFs using LangChain + Gemini + FAISS  
-- 📊 [Customer Churn Prediction](https://github.com/Harsh2456/Customer_churn_Prediction) – ML model with XGBoost & Logistic Regression  
-- 🖼️ [Computer Vision Text Extractor](https://github.com/Harsh2456/Computer-Vision-Text-Extract) – Image preprocessing + OCR  
-- 📄 [Resume Parser using NLP](https://github.com/Harsh2456/Resume-Parser-Using-NLP) – Extract structured info from resumes  
-
----
 
 ## 📈 GitHub Stats  
 
@@ -39,17 +35,9 @@
 
 ---
 
-## 🏆 Achievements  
-
-- Kaggle Competitions (Stanford RNA 3D Folding)  
-- Built multiple ML/NLP projects  
-- Contributor to open-source  
-
----
-
 📫 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-patil)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshwardhan-patil-955706251/))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-harshpatil2456@gmail.com)
 
 
 
